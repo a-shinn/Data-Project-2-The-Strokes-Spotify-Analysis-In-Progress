@@ -1,1 +1,1 @@
-# Data Project 2 - Spotify Analysis of The Strokes
+# Data Project 2 - Analysis of The Strokes' Spotify data
